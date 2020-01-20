@@ -1,0 +1,16 @@
+/.project
+/.settings/
+.factorypath
+.flattened-pom.xml
+sh.exe.stackdump
+
+# IDEA artifacts and output dirs
+*.iml
+*.ipr
+*.iws
+.idea
+intellij/
+out
+test-output
+atlassian-ide-plugin.xml
+.gradletasknamecache
